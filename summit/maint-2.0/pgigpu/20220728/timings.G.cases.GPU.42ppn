@@ -1,0 +1,110 @@
+PFS_P1024.T62_oRRS18to6v3.GMPAS-IAF.summit_pgigpu.bench-gmpas_noio.a
+1024 tasks @ 25 nodes
+    TOT Run Time:    6662.919 seconds      605.720 seconds/mday         0.39 myears/wday 
+    CPL Run Time:    6654.048 seconds      604.913 seconds/mday         0.39 myears/wday 
+    ATM Run Time:      15.602 seconds        1.418 seconds/mday       166.89 myears/wday 
+    LND Run Time:       0.000 seconds        0.000 seconds/mday         0.00 myears/wday 
+    ICE Run Time:    1789.431 seconds      162.676 seconds/mday         1.46 myears/wday 
+    OCN Run Time:    4618.160 seconds      419.833 seconds/mday         0.56 myears/wday 
+    ROF Run Time:       0.196 seconds        0.018 seconds/mday     13284.88 myears/wday 
+    CPL COMM Time:    114.885 seconds       10.444 seconds/mday        22.66 myears/wday 
+PFS_P1536.T62_oRRS18to6v3.GMPAS-IAF.summit_pgigpu.bench-gmpas_noio.a
+1536 tasks @ 37 nodes
+    TOT Run Time:    6776.706 seconds      398.630 seconds/mday         0.59 myears/wday 
+    CPL Run Time:    6770.333 seconds      398.255 seconds/mday         0.59 myears/wday 
+    ATM Run Time:      13.629 seconds        0.802 seconds/mday       295.26 myears/wday 
+    LND Run Time:       0.000 seconds        0.000 seconds/mday         0.00 myears/wday 
+    ICE Run Time:    2028.645 seconds      119.332 seconds/mday         1.98 myears/wday 
+    OCN Run Time:    4365.705 seconds      256.806 seconds/mday         0.92 myears/wday 
+    ROF Run Time:       0.571 seconds        0.034 seconds/mday      7047.48 myears/wday 
+    CPL COMM Time:    145.404 seconds        8.553 seconds/mday        27.68 myears/wday 
+PFS_P2048.T62_oRRS18to6v3.GMPAS-IAF.summit_pgigpu.bench-gmpas_noio.a
+2048 tasks @ 49 nodes
+    TOT Run Time:    6828.875 seconds      341.444 seconds/mday         0.69 myears/wday 
+    CPL Run Time:     496.186 seconds       24.809 seconds/mday         9.54 myears/wday 
+    ATM Run Time:      12.917 seconds        0.646 seconds/mday       366.51 myears/wday 
+    LND Run Time:       0.000 seconds        0.000 seconds/mday         0.00 myears/wday 
+    ICE Run Time:    2510.520 seconds      125.526 seconds/mday         1.89 myears/wday 
+    OCN Run Time:    3793.226 seconds      189.661 seconds/mday         1.25 myears/wday 
+    ROF Run Time:       0.612 seconds        0.031 seconds/mday      7735.70 myears/wday 
+    CPL COMM Time:    252.953 seconds       12.648 seconds/mday        18.72 myears/wday 
+PFS_P2560.T62_oRRS18to6v3.GMPAS-IAF.summit_pgigpu.bench-gmpas_noio.a
+2560 tasks @ 61 nodes
+    TOT Run Time:    5720.434 seconds      286.022 seconds/mday         0.83 myears/wday 
+    CPL Run Time:     455.540 seconds       22.777 seconds/mday        10.39 myears/wday 
+    ATM Run Time:      12.599 seconds        0.630 seconds/mday       375.76 myears/wday 
+    LND Run Time:       0.000 seconds        0.000 seconds/mday         0.00 myears/wday 
+    ICE Run Time:    2196.725 seconds      109.836 seconds/mday         2.16 myears/wday 
+    OCN Run Time:    3056.395 seconds      152.820 seconds/mday         1.55 myears/wday 
+    ROF Run Time:       0.528 seconds        0.026 seconds/mday      8966.38 myears/wday 
+    CPL COMM Time:    199.132 seconds        9.957 seconds/mday        23.77 myears/wday 
+PFS_P3072.T62_oRRS18to6v3.GMPAS-IAF.summit_pgigpu.bench-gmpas_noio.a
+3072 tasks @ 74 nodes
+    TOT Run Time:    4511.809 seconds      225.590 seconds/mday         1.05 myears/wday 
+    CPL Run Time:     325.681 seconds       16.284 seconds/mday        14.54 myears/wday 
+    ATM Run Time:      11.645 seconds        0.582 seconds/mday       406.55 myears/wday 
+    LND Run Time:       0.000 seconds        0.000 seconds/mday         0.00 myears/wday 
+    ICE Run Time:    1573.308 seconds       78.665 seconds/mday         3.01 myears/wday 
+    OCN Run Time:    2600.288 seconds      130.014 seconds/mday         1.82 myears/wday 
+    ROF Run Time:       0.535 seconds        0.027 seconds/mday      8849.06 myears/wday 
+    CPL COMM Time:    116.424 seconds        5.821 seconds/mday        40.66 myears/wday 
+PFS_P4096.T62_oRRS18to6v3.GMPAS-IAF.summit_pgigpu.bench-gmpas_noio.a
+4096 tasks @ 98 nodes
+    TOT Run Time:    3697.782 seconds      184.889 seconds/mday         1.28 myears/wday 
+    CPL Run Time:     351.450 seconds       17.572 seconds/mday        13.47 myears/wday 
+    ATM Run Time:       9.379 seconds        0.469 seconds/mday       504.77 myears/wday 
+    LND Run Time:       0.000 seconds        0.000 seconds/mday         0.00 myears/wday 
+    ICE Run Time:    1294.314 seconds       64.716 seconds/mday         3.66 myears/wday 
+    OCN Run Time:    2040.995 seconds      102.050 seconds/mday         2.32 myears/wday 
+    ROF Run Time:       0.717 seconds        0.036 seconds/mday      6602.85 myears/wday 
+    CPL COMM Time:    138.948 seconds        6.947 seconds/mday        34.07 myears/wday 
+PFS_P5200.T62_oRRS18to6v3.GMPAS-IAF.summit_pgigpu.bench-gmpas_noio.a
+5200 tasks @ 124 nodes
+    TOT Run Time:    3344.670 seconds      167.233 seconds/mday         1.42 myears/wday 
+    CPL Run Time:     276.942 seconds       13.847 seconds/mday        17.09 myears/wday 
+    ATM Run Time:       8.394 seconds        0.420 seconds/mday       564.00 myears/wday 
+    LND Run Time:       0.000 seconds        0.000 seconds/mday         0.00 myears/wday 
+    ICE Run Time:    1360.216 seconds       68.011 seconds/mday         3.48 myears/wday 
+    OCN Run Time:    1720.077 seconds       86.004 seconds/mday         2.75 myears/wday 
+    ROF Run Time:       0.552 seconds        0.028 seconds/mday      8576.53 myears/wday 
+    CPL COMM Time:     67.469 seconds        3.373 seconds/mday        70.17 myears/wday 
+PFS_P8192.T62_oRRS18to6v3.GMPAS-IAF.summit_pgigpu.bench-gmpas_noio.a
+8192 tasks @ 196 nodes
+    TOT Run Time:    2375.578 seconds      118.779 seconds/mday         1.99 myears/wday 
+    CPL Run Time:     226.107 seconds       11.305 seconds/mday        20.94 myears/wday 
+    ATM Run Time:       8.136 seconds        0.407 seconds/mday       581.89 myears/wday 
+    LND Run Time:       0.000 seconds        0.000 seconds/mday         0.00 myears/wday 
+    ICE Run Time:     904.356 seconds       45.218 seconds/mday         5.23 myears/wday 
+    OCN Run Time:    1249.304 seconds       62.465 seconds/mday         3.79 myears/wday 
+    ROF Run Time:       0.819 seconds        0.041 seconds/mday      5780.52 myears/wday 
+    CPL COMM Time:     55.971 seconds        2.799 seconds/mday        84.58 myears/wday 
+PFS_P12000.T62_oRRS18to6v3.GMPAS-IAF.summit_pgigpu.bench-gmpas_noio.a
+12000 tasks @ 286 nodes
+    TOT Run Time:    1967.152 seconds       98.358 seconds/mday         2.41 myears/wday 
+    CPL Run Time:     198.493 seconds        9.925 seconds/mday        23.85 myears/wday 
+    ATM Run Time:       7.870 seconds        0.394 seconds/mday       601.56 myears/wday 
+    LND Run Time:       0.000 seconds        0.000 seconds/mday         0.00 myears/wday 
+    ICE Run Time:     781.521 seconds       39.076 seconds/mday         6.06 myears/wday 
+    OCN Run Time:     988.985 seconds       49.449 seconds/mday         4.79 myears/wday 
+    ROF Run Time:       0.518 seconds        0.026 seconds/mday      9139.47 myears/wday 
+    CPL COMM Time:     37.247 seconds        1.862 seconds/mday       127.10 myears/wday 
+PFS_P16000.T62_oRRS18to6v3.GMPAS-IAF.summit_pgigpu.bench-gmpas_noio.a
+16000 tasks @ 381 nodes
+    TOT Run Time:    1710.283 seconds       85.514 seconds/mday         2.77 myears/wday 
+    CPL Run Time:     168.742 seconds        8.437 seconds/mday        28.06 myears/wday 
+    ATM Run Time:       7.734 seconds        0.387 seconds/mday       612.13 myears/wday 
+    LND Run Time:       0.000 seconds        0.000 seconds/mday         0.00 myears/wday 
+    ICE Run Time:     694.042 seconds       34.702 seconds/mday         6.82 myears/wday 
+    OCN Run Time:     849.877 seconds       42.494 seconds/mday         5.57 myears/wday 
+    ROF Run Time:       0.579 seconds        0.029 seconds/mday      8176.59 myears/wday 
+    CPL COMM Time:     33.357 seconds        1.668 seconds/mday       141.93 myears/wday 
+PFS_P21600.T62_oRRS18to6v3.GMPAS-IAF.summit_pgigpu.bench-gmpas_noio.a
+21600 tasks @ 515 nodes
+    TOT Run Time:      74.713 seconds       74.713 seconds/mday         3.17 myears/wday 
+    CPL Run Time:       7.814 seconds        7.814 seconds/mday        30.29 myears/wday 
+    ATM Run Time:       0.398 seconds        0.398 seconds/mday       594.75 myears/wday 
+    LND Run Time:       0.000 seconds        0.000 seconds/mday         0.00 myears/wday 
+    ICE Run Time:      30.208 seconds       30.208 seconds/mday         7.84 myears/wday 
+    OCN Run Time:      36.664 seconds       36.664 seconds/mday         6.46 myears/wday 
+    ROF Run Time:       0.033 seconds        0.033 seconds/mday      7173.10 myears/wday 
+    CPL COMM Time:      1.704 seconds        1.704 seconds/mday       138.92 myears/wday 

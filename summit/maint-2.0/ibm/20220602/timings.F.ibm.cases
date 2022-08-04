@@ -1,0 +1,110 @@
+PFS_P336.ne120pg2_r05_EC30to60E2r2.F2010.summit_ibm.eam-bench-noio.b
+336 tasks @ 4 nodes
+    TOT Run Time:    5916.304 seconds     5916.304 seconds/mday         0.04 myears/wday 
+    CPL Run Time:       4.547 seconds        4.547 seconds/mday        52.06 myears/wday 
+    ATM Run Time:    5889.253 seconds     5889.253 seconds/mday         0.04 myears/wday 
+    LND Run Time:       9.571 seconds        9.571 seconds/mday        24.73 myears/wday 
+    ICE Run Time:       8.682 seconds        8.682 seconds/mday        27.26 myears/wday 
+    OCN Run Time:       0.054 seconds        0.054 seconds/mday      4419.75 myears/wday 
+    ROF Run Time:       0.541 seconds        0.541 seconds/mday       437.55 myears/wday 
+    CPL COMM Time:    144.160 seconds      144.160 seconds/mday         1.64 myears/wday 
+PFS_P672.ne120pg2_r05_EC30to60E2r2.F2010.summit_ibm.eam-bench-noio.b
+672 tasks @ 8 nodes
+    TOT Run Time:    5858.075 seconds     2929.037 seconds/mday         0.08 myears/wday 
+    CPL Run Time:       8.723 seconds        4.362 seconds/mday        54.27 myears/wday 
+    ATM Run Time:    5822.541 seconds     2911.271 seconds/mday         0.08 myears/wday 
+    LND Run Time:       9.444 seconds        4.722 seconds/mday        50.13 myears/wday 
+    ICE Run Time:       9.003 seconds        4.502 seconds/mday        52.59 myears/wday 
+    OCN Run Time:       0.116 seconds        0.058 seconds/mday      4095.29 myears/wday 
+    ROF Run Time:       0.617 seconds        0.308 seconds/mday       767.30 myears/wday 
+    CPL COMM Time:    125.020 seconds       62.510 seconds/mday         3.79 myears/wday 
+PFS_P1344.ne120pg2_r05_EC30to60E2r2.F2010.summit_ibm.eam-bench-noio.b
+1344 tasks @ 16 nodes
+    TOT Run Time:    5788.747 seconds     1447.187 seconds/mday         0.16 myears/wday 
+    CPL Run Time:      18.644 seconds        4.661 seconds/mday        50.79 myears/wday 
+    ATM Run Time:    5732.095 seconds     1433.024 seconds/mday         0.17 myears/wday 
+    LND Run Time:       9.653 seconds        2.413 seconds/mday        98.09 myears/wday 
+    ICE Run Time:      10.597 seconds        2.649 seconds/mday        89.35 myears/wday 
+    OCN Run Time:       0.175 seconds        0.044 seconds/mday      5396.48 myears/wday 
+    ROF Run Time:       0.749 seconds        0.187 seconds/mday      1264.15 myears/wday 
+    CPL COMM Time:    154.324 seconds       38.581 seconds/mday         6.14 myears/wday 
+PFS_P2688.ne120pg2_r05_EC30to60E2r2.F2010.summit_ibm.eam-bench-noio.b
+2688 tasks @ 32 nodes
+    TOT Run Time:    6560.810 seconds      728.979 seconds/mday         0.32 myears/wday 
+    CPL Run Time:      62.548 seconds        6.950 seconds/mday        34.06 myears/wday 
+    ATM Run Time:    6484.516 seconds      720.502 seconds/mday         0.33 myears/wday 
+    LND Run Time:      11.517 seconds        1.280 seconds/mday       184.98 myears/wday 
+    ICE Run Time:      15.306 seconds        1.701 seconds/mday       139.19 myears/wday 
+    OCN Run Time:       0.398 seconds        0.044 seconds/mday      5346.60 myears/wday 
+    ROF Run Time:       1.068 seconds        0.119 seconds/mday      1994.77 myears/wday 
+    CPL COMM Time:    186.742 seconds       20.749 seconds/mday        11.41 myears/wday 
+PFS_P5376.ne120pg2_r05_EC30to60E2r2.F2010.summit_ibm.eam-bench-noio.b
+5376 tasks @ 64 nodes
+    TOT Run Time:    7053.208 seconds      371.221 seconds/mday         0.64 myears/wday 
+    CPL Run Time:     113.849 seconds        5.992 seconds/mday        39.50 myears/wday 
+    ATM Run Time:    6955.246 seconds      366.066 seconds/mday         0.65 myears/wday 
+    LND Run Time:      12.750 seconds        0.671 seconds/mday       352.75 myears/wday 
+    ICE Run Time:      21.990 seconds        1.157 seconds/mday       204.53 myears/wday 
+    OCN Run Time:       1.008 seconds        0.053 seconds/mday      4463.82 myears/wday 
+    ROF Run Time:       1.553 seconds        0.082 seconds/mday      2896.03 myears/wday 
+    CPL COMM Time:    199.811 seconds       10.516 seconds/mday        22.51 myears/wday 
+PFS_P7200.ne120pg2_r05_EC30to60E2r2.F2010.summit_ibm.eam-bench-noio.a
+7200 tasks @ 86 nodes
+    TOT Run Time:    5480.457 seconds      274.023 seconds/mday         0.86 myears/wday 
+    CPL Run Time:     131.211 seconds        6.561 seconds/mday        36.08 myears/wday 
+    ATM Run Time:    5370.793 seconds      268.540 seconds/mday         0.88 myears/wday 
+    LND Run Time:      10.984 seconds        0.549 seconds/mday       431.01 myears/wday 
+    ICE Run Time:      21.182 seconds        1.059 seconds/mday       223.50 myears/wday 
+    OCN Run Time:       0.962 seconds        0.048 seconds/mday      4923.81 myears/wday 
+    ROF Run Time:       1.257 seconds        0.063 seconds/mday      3766.31 myears/wday 
+    CPL COMM Time:    153.167 seconds        7.658 seconds/mday        30.91 myears/wday 
+PFS_P8640.ne120pg2_r05_EC30to60E2r2.F2010.summit_ibm.eam-bench-noio.a
+8640 tasks @ 103 nodes
+    TOT Run Time:    4528.429 seconds      226.421 seconds/mday         1.05 myears/wday 
+    CPL Run Time:      89.850 seconds        4.492 seconds/mday        52.69 myears/wday 
+    ATM Run Time:    4429.900 seconds      221.495 seconds/mday         1.07 myears/wday 
+    LND Run Time:      10.068 seconds        0.503 seconds/mday       470.23 myears/wday 
+    ICE Run Time:      18.887 seconds        0.944 seconds/mday       250.66 myears/wday 
+    OCN Run Time:       0.989 seconds        0.049 seconds/mday      4789.25 myears/wday 
+    ROF Run Time:       1.299 seconds        0.065 seconds/mday      3644.53 myears/wday 
+    CPL COMM Time:    119.207 seconds        5.960 seconds/mday        39.71 myears/wday 
+PFS_P10800.ne120pg2_r05_EC30to60E2r2.F2010.summit_ibm.eam-bench-noio.a
+10800 tasks @ 129 nodes
+    TOT Run Time:    3705.573 seconds      185.279 seconds/mday         1.28 myears/wday 
+    CPL Run Time:     117.265 seconds        5.863 seconds/mday        40.37 myears/wday 
+    ATM Run Time:    3632.640 seconds      181.632 seconds/mday         1.30 myears/wday 
+    LND Run Time:       8.993 seconds        0.450 seconds/mday       526.44 myears/wday 
+    ICE Run Time:      18.992 seconds        0.950 seconds/mday       249.28 myears/wday 
+    OCN Run Time:       1.291 seconds        0.065 seconds/mday      3668.05 myears/wday 
+    ROF Run Time:       1.350 seconds        0.068 seconds/mday      3506.85 myears/wday 
+    CPL COMM Time:    139.555 seconds        6.978 seconds/mday        33.92 myears/wday 
+PFS_P14400.ne120pg2_r05_EC30to60E2r2.F2010.summit_ibm.eam-bench-noio.a
+14400 tasks @ 172 nodes
+    TOT Run Time:    3156.624 seconds      157.831 seconds/mday         1.50 myears/wday 
+    CPL Run Time:     282.298 seconds       14.115 seconds/mday        16.77 myears/wday 
+    ATM Run Time:    3063.774 seconds      153.189 seconds/mday         1.55 myears/wday 
+    LND Run Time:       7.435 seconds        0.372 seconds/mday       636.75 myears/wday 
+    ICE Run Time:      22.987 seconds        1.149 seconds/mday       205.95 myears/wday 
+    OCN Run Time:       1.605 seconds        0.080 seconds/mday      2949.99 myears/wday 
+    ROF Run Time:       1.569 seconds        0.078 seconds/mday      3017.37 myears/wday 
+    CPL COMM Time:    264.082 seconds       13.204 seconds/mday        17.93 myears/wday 
+PFS_P21600.ne120pg2_r05_EC30to60E2r2.F2010.summit_ibm.eam-bench-noio.a
+21600 tasks @ 258 nodes
+    TOT Run Time:    1895.297 seconds       94.765 seconds/mday         2.50 myears/wday 
+    CPL Run Time:      85.991 seconds        4.300 seconds/mday        55.06 myears/wday 
+    ATM Run Time:    1795.862 seconds       89.793 seconds/mday         2.64 myears/wday 
+    LND Run Time:       6.751 seconds        0.338 seconds/mday       701.27 myears/wday 
+    ICE Run Time:      22.507 seconds        1.125 seconds/mday       210.35 myears/wday 
+    OCN Run Time:       2.056 seconds        0.103 seconds/mday      2302.57 myears/wday 
+    ROF Run Time:       2.141 seconds        0.107 seconds/mday      2211.23 myears/wday 
+    CPL COMM Time:     57.340 seconds        2.867 seconds/mday        82.56 myears/wday 
+PFS_P43200.ne120pg2_r05_EC30to60E2r2.F2010.summit_ibm.eam-bench-noio.a
+43200 tasks @ 515 nodes
+    TOT Run Time:    1045.446 seconds       52.272 seconds/mday         4.53 myears/wday 
+    CPL Run Time:      96.155 seconds        4.808 seconds/mday        49.24 myears/wday 
+    ATM Run Time:     931.848 seconds       46.592 seconds/mday         5.08 myears/wday 
+    LND Run Time:       6.567 seconds        0.328 seconds/mday       720.91 myears/wday 
+    ICE Run Time:      19.014 seconds        0.951 seconds/mday       248.99 myears/wday 
+    OCN Run Time:       1.881 seconds        0.094 seconds/mday      2516.90 myears/wday 
+    ROF Run Time:       3.256 seconds        0.163 seconds/mday      1454.01 myears/wday 
+    CPL COMM Time:     45.460 seconds        2.273 seconds/mday       104.14 myears/wday 
